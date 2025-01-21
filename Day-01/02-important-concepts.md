@@ -25,11 +25,13 @@ Availability Zones are isolated locations within a region that have their own po
 
 ## Scalability
 
-Scalability is the ability of a system to handle an increasing amount of work or its potential to be enlarged to accommodate that growth.
+Scalability is the ability of a system to handle an increasing/decreasing amount of work to meet its demand/ to accommodate that growth.
+- Vertical Scaling: Adding/Removing the power to an existing resource like adding CPU/RAM to server
+- Horizontal Scaling: Adding/Removing Instance like Containers, Virtual Machines
 
 ## Elasticity/ Auto-Scaling
 
-Elasticity in cloud computing refers to the ability to dynamically scale resources up or down based on demand.
+Elasticity/Auto Scaling in cloud computing refers to the ability to dynamically scale resources up or down based on demand.
 
 ## Agility
 
@@ -41,6 +43,10 @@ Agility is the capability of quickly and easily adapting to changes. In the cont
 - Ensure the services continue function even if some of its components fail
 
 Ex: In App service, High Availability involves in deploying the app across multiple regions, so that if one fails the other keep working
+
+## Relaibility
+
+Ability of system to recover from failure and continue to function. Which is done by deploying resources across multiple regions worldwide if one fails other works.
 
 ## Fault Tolerance
 
