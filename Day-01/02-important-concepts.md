@@ -3,6 +3,8 @@
 ## Virtualization
 
 Virtualization is the process of creating a virtual version of something, such as an operating system, server, storage, or network resources.
+Using concept of Hypervisor, a server is logically breakdown as multiple servers(VM) based on user requirment 
+for ex: 1 server consists 100GB Ram, If you request 10GB RAM , the server with pre installed Hypervisor break down and provide the requirments
 
 ## Virtual Machine
 
