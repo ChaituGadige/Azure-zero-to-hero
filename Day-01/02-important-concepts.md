@@ -27,7 +27,7 @@ Availability Zones are isolated locations within a region that have their own po
 
 Scalability is the ability of a system to handle an increasing amount of work or its potential to be enlarged to accommodate that growth.
 
-## Elasticity
+## Elasticity/ Auto-Scaling
 
 Elasticity in cloud computing refers to the ability to dynamically scale resources up or down based on demand.
 
