@@ -2,7 +2,9 @@
 
 ## Infrastructure as a Service (IaaS)
 
-IaaS is a cloud computing model that provides virtualized computing resources over the internet. In Azure, IaaS offerings include virtual machines, storage, and networking components. Users have more control over the infrastructure but are responsible for managing and maintaining the operating system, middleware, and applications.
+- IaaS is a cloud computing model that provides virtualized computing resources over the internet.
+- In Azure, IaaS offerings include virtual machines, storage, and networking components.
+- Users have more control over the infrastructure but are responsible for managing and maintaining the operating system, middleware, and applications.
 
 ### Key Characteristics of Azure IaaS:
 
@@ -14,7 +16,8 @@ IaaS is a cloud computing model that provides virtualized computing resources ov
 
 ## Platform as a Service (PaaS)
 
-PaaS is a cloud computing model that provides a platform allowing customers to develop, run, and manage applications without dealing with the complexity of underlying infrastructure. In Azure, PaaS offerings include Azure App Service, Azure SQL Database, and Azure Functions.
+- PaaS is a cloud computing model that provides a platform allowing customers to develop, run, and manage applications without dealing with the complexity of underlying infrastructure.
+- In Azure, PaaS offerings include Azure App Service, Azure SQL Database, and Azure Functions.
 
 ### Key Characteristics of Azure PaaS:
 
@@ -26,7 +29,9 @@ PaaS is a cloud computing model that provides a platform allowing customers to d
 
 ## Software as a Service (SaaS)
 
-SaaS is a cloud computing model that delivers software applications over the internet. Users can access the software through a web browser without the need for installation or maintenance. In Azure, SaaS offerings include Microsoft 365, Dynamics 365, and many third-party applications.
+- SaaS is a cloud computing model that delivers software applications over the internet.
+- Users can access the software through a web browser without the need for installation or maintenance.
+- In Azure, SaaS offerings include Microsoft 365, Dynamics 365, and many third-party applications.
 
 ### Key Characteristics of Azure SaaS:
 
