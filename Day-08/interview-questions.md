@@ -38,7 +38,7 @@ User data is a new version of custom data and it offers added benefits. User dat
 #### Azure Application Gateway:
 Operates at Layer 7 (Application layer) of the OSI model.
 Provides advanced application-level routing, SSL termination, and web application firewall (WAF) capabilities.
-Suited for distributing traffic based on application awareness.
+Suited for distributing traffic based on application awareness (HTTPS)
 
 #### Azure Load Balancer:
 Operates at Layer 4 (Transport layer) of the OSI model.
